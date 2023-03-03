@@ -1,0 +1,21 @@
+{
+  "name": "cherries-and-berries",
+  "displayName": "Cherries and Berries",
+  "description": "A color theme based on cherries and berries with a pastel approach",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cherries and Berries",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cherries and Berries-color-theme.json"
+      }
+    ]
+  }
+}
