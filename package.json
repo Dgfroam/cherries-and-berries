@@ -3,6 +3,16 @@
   "displayName": "Cherries and Berries",
   "description": "A color theme based on cherries and berries with a pastel approach",
   "version": "0.0.1",
+  "publisher": "Dgfroam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dgfroam/cherries-and-berries"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "pastel"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
